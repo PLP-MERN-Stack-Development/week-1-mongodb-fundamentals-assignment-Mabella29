@@ -40,6 +40,11 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 
+## How to run the insert_books.js(in the terminal)
+1. npm init -y
+2. npm install mongodb
+3. node insert_books.js
+
 ## Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
